@@ -1,0 +1,11 @@
+# Docs
+:toc: macro
+
+toc::[]
+
+<<<
+:numbered:
+<<<
+
+
+include::openshift.adoc[]

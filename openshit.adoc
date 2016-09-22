@@ -1,0 +1,20 @@
+# OpenShift
+:toc: macro
+
+toc::[]
+
+<<<
+:numbered:
+<<<
+
+
+## Vagrant inicijalizacija i pokretanje openshift virtualke
+
+ . Kreiranje direktorija: 
+ ** `$:> mkdir openshift && cd openshift`
+ . Kreiranje vagrant environmenta:
+ ** `$:> vagrant init thesteve0/openshift-origin`
+ . Pokretanje environmena:
+ ** `$:> vagrant up`
+
+
